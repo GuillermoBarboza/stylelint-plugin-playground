@@ -1,0 +1,10 @@
+{
+    "severity": "warning",
+    "customSyntax": "postcss-scss",
+    "plugins": [
+        "./mixin-can-be-used.js"
+    ],
+    "rules": {
+        "scss/mixin-can-be-used": true
+    }
+}
